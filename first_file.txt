@@ -1,1 +1,1 @@
-This is my first shot at git and github! 
+This is my first shot at git and github! Now I will edit the file to try some commits!
